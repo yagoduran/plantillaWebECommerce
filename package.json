@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "build": "node scripts/build-static.mjs",
-    "preview": "npx serve ."
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
   }
 }
