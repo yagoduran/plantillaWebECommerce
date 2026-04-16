@@ -1,8 +1,4 @@
-.next
-.open-next
-.wrangler
 node_modules
-.vercel
 dist
 out
 
